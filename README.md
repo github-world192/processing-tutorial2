@@ -1,8 +1,8 @@
 # 如何在processing使用攝影機？
-'''md
+```md
 import processing.video.*
-'''
+```
 # 如何在processing使用錄音功能？
-'''md
+```md
 import processing.sound.*
-'''
+```
